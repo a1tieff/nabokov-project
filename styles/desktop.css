@@ -48,11 +48,20 @@ body {
 
 h1 {
   font-family: Merriweather;
-  font-style: regular;
+  font-weight: regular;
   font-size: 64px;
   text-align: center;
   margin: auto;
   margin-top: 160px;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-weight: regular;
+  font-size: 10px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 100px;
 }
 
 .info {
@@ -75,7 +84,7 @@ p {
 
 .text {
   font-family: Merriweather;
-  font-style: light;
+  font-weight: light;
   font-size: 17px;
   line-height: 30px;
   text-align: justify;
@@ -83,7 +92,7 @@ p {
 
 .paragraph {
   font-family: Merriweather;
-  font-style: light;
+  font-weight: light;
   font-size: 17px;
   line-height: 30px;
   color: white;
@@ -110,7 +119,7 @@ p {
 
 .note, .info {
   font-family: Helvetica;
-  font-style: regular;
+  font-weight: regular;
   font-size: 10px;
   font-style: uppercase;
 }
@@ -123,7 +132,7 @@ p {
   position: absolute;
   width: 710px;
   height: 11px;
-  margin-top: 945px;
+  margin-top: 950px;
   margin-left: -287px;
   margin-right: 1333px;
 }
